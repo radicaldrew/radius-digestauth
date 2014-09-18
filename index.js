@@ -1,3 +1,5 @@
+var md5 = require('MD5');
+
 
  function ord(string) {
       //  discuss at: http://phpjs.org/functions/ord/
