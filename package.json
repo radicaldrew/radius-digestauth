@@ -1,0 +1,26 @@
+{
+  "name": "radius-digestauth",
+  "version": "1.0.0",
+  "description": "Digest Authentication for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radicaldrew/radius-digestauth.git"
+  },
+  "keywords": [
+    "radius",
+    "digest",
+    "autentication",
+    "node.js",
+    "nodejs"
+  ],
+  "author": "Andrew Karp <drewkarp@gmail.com> (https://github.com/radicaldrew)",
+  "license": "Apache Version 2.0",
+  "bugs": {
+    "url": "https://github.com/radicaldrew/radius-digestauth/issues"
+  },
+  "homepage": "https://github.com/radicaldrew/radius-digestauth"
+}
